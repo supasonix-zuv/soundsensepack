@@ -1073,6 +1073,24 @@
             <file name="simon-swerwer_the-storm-and-the-bounty.mp3" sha1="c026bb61416bd8a32490906ca081a50d2408992d" size="4754496"/>
             <file name="theelvesofthecoast.mp3" sha1="828f39707febe51f900bd9f79e8671319e605700" size="3443393"/>
          </directory>
+         <directory name="ost">
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 01 Dwarf Fortress (Main Theme).mp3" sha1="6cef25c6267caf64906a14bf0cf55ec431394bcc" size="11950831"/>
+            <file name="Dabu - Dwarf Fortress (Official Steam Soundtrack) - 02 First Year.mp3" sha1="45d35f322a5c459ab8aac84e8762f50a9cbd60a2" size="9474799"/>
+            <file name="Dabu - Águeda Macias - Dwarf Fortress (Official Steam Soundtrack) - 03 Craftsdwarfship.mp3" sha1="71bf1989ec8cb953fab388a9b6bbb7365fa4f4e6" size="6913640"/>
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 04 Strike The Earth!.mp3" sha1="09fa6602a42b71f93e2e08b43dd4025b1c73419d" size="7599438"/>
+            <file name="Dabu - Dwarf Fortress (Official Steam Soundtrack) - 05 Strange Moods.mp3" sha1="987dd93f3cd8549b09c3f6cc1e8e7a6f12d4ba0f" size="9458024"/>
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 06 Hill Dwarf.mp3" sha1="edac2641e6179be8bc43ff3785b494dd5128ffa8" size="7777056"/>
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 07 Vile Force of Darkness.mp3" sha1="f842d2eea0ad18b558acbf5b53ace479e8a5c80a" size="9800546"/>
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 08 Expansive Cavern.mp3" sha1="bac364c5f271c07f402d15c88abeb47d08922fad" size="7657666"/>
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 09 Forgotten Beast.mp3" sha1="9ba6efdc7408110c33c05f599a95363b7cb62100" size="7317651"/>
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 10 Drink _ Industry.mp3" sha1="8540e7d4e405061c088cf05bac649f76bdabd3d1" size="4495609"/>
+            <file name="Dabu - Águeda Macias - Dwarf Fortress (Official Steam Soundtrack) - 11 Mountainhome.mp3" sha1="6f20d85f4d7f8f81e1d1a7776ba78b1daff614a8" size="9854916"/>
+            <file name="Dabu - Dwarf Fortress (Official Steam Soundtrack) - 12 Death Spiral.mp3" sha1="87346a6585ad9ab6226592fb19c549db34fb0ce2" size="10299206"/>
+            <file name="Dabu - Dwarf Fortress (Official Steam Soundtrack) - 13 Winter Entombs You.mp3" sha1="e211a194772d195d4b0b628d8be05e6b472a986d" size="9925318"/>
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 14 Another Year.mp3" sha1="902e561959f2676918171bfc6a301237d8616ee0" size="10465775"/>
+            <file name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 15 Koganusan.mp3" sha1="6105d934a2533191e31ae139adb42028a6c10575" size="7498906"/>
+
+         </directory>
          <directory name="spring">
             <file name="Achaidh Cheide.mp3" sha1="29c95ab46cb5001bf98cddc706bd7ba87b8fcbe7" size="5475237"/>
             <file name="Celtic Impulse.mp3" sha1="d86ca21c923f2f1fbbcd20df3b8015866511ed99" size="6446938"/>
