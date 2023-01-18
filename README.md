@@ -18,8 +18,8 @@ rename -iv '&' '-' Dabu\ -\ Águeda\ Macias\ -\ Dwarf\ Fortress\ \(Official\ Ste
 `
 
 5. (optional) I added the entire OST to every season, if you want certain songs in certain seasons, just delete the entire line in seasons/seasons.xml
-e.g. delete this entire line
-		<soundFile name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 04 Strike The Earth!.mp3" />
+e.g. delete this entire line:
+`		<soundFile name="Dabu - Simon Swerwer - Dwarf Fortress (Official Steam Soundtrack) - 04 Strike The Earth!.mp3" />`
 
 
 unofficial unofficial update of zwei's "Official soundpack" for SoundSense
